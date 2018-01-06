@@ -129,6 +129,7 @@
                             <li><a href="danhsachcongviecdadang.php"><i class="fa fa-angle-double-right"></i> Danh sách các công việc đã đăng</a></li>
                             <li><a href="dangcongviec.php"><i class="fa fa-angle-double-right"></i> Đăng công việc</a></li>
                             <li><a href="danhsachnhadauthau.php"><i class="fa fa-angle-double-right"></i> Danh sách các nhà thầu đã nạp hồ sơ dự thầu</a></li>
+                            <li><a href="nhatuyedungxemsosanhungvien.php"><i class="fa fa-angle-double-right"></i> Xem so sánh các ứng viên</a></li>
                         </ul>
                     </li>
                 </ul>
