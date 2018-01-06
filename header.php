@@ -108,15 +108,11 @@
                     <li>
                         <a href="#" data-toggle="collapse" data-target="#submenu-1"><i class="fa fa-fw fa-search"></i> Người tìm việc <i class="fa fa-fw fa-angle-down pull-right"></i></a>
                         <ul id="submenu-1" class="collapse">
-                            
-                            <li><a href="home.php"><i class="fa fa-angle-double-right"></i> Giao diện trang chủ</a></li>
+                            <li><a href="index.php"><i class="fa fa-angle-double-right"></i> Giao diện tìm kiếm</a></li>
                             <li><a href="ketqua.php"><i class="fa fa-angle-double-right"></i> Trang kết quả tìm kiếm</a></li>
-                            <li><a href="nguoitimviecdangky.php"><i class="fa fa-angle-double-right"></i> Người tìm việc đăng ký</a></li>
                             <li><a href="chitietcongviec.php"><i class="fa fa-angle-double-right"></i> Trang chi tiết 1 công việc</a></li>
                             <li><a href="thamgiacongviec.php"><i class="fa fa-angle-double-right"></i> Giao diện ứng tuyển công việc</a></li>
                             <li><a href="hosoungtuyen.php"><i class="fa fa-angle-double-right"></i> Giao diện hồ sơ đã ứng tuyển</a></li>
-                            <li><a href="sosanhungvien.php"><i class="fa fa-angle-double-right"></i> So sánh ứng viên cùng ứng tuyển</a></li>
-                            <li><a href="congviecquantam.php"><i class="fa fa-angle-double-right"></i> Công việc đã quan tâm</a></li>
                         </ul>
                     </li>
                     <li>
@@ -130,8 +126,6 @@
                             <li><a href="hosochitiet.php"><i class="fa fa-angle-double-right"></i> Chi tiết hồ sơ</a></li>
                             <li><a href="danhsachcongviecdadang.php"><i class="fa fa-angle-double-right"></i> Danh sách các công việc đã đăng</a></li>
                             <li><a href="dangcongviec.php"><i class="fa fa-angle-double-right"></i> Đăng công việc</a></li>
-                            <li><a href="danhsachnhadauthau.php"><i class="fa fa-angle-double-right"></i> Danh sách các nhà thầu đã nạp hồ sơ dự thầu</a></li>
-                            <li><a href="nhatuyedungxemsosanhungvien.php"><i class="fa fa-angle-double-right"></i> Xem so sánh các ứng viên</a></li>
                         </ul>
                     </li>
                 </ul>
