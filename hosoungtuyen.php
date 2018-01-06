@@ -38,7 +38,7 @@
 	<div id="home" class="tab-pane fade in active">
 		<div class="col-md-6 viecungtuyen">
 			<div class="col-md-7">
-				<h3><p class="tencongty">Quản đốc xưởng</p></h3>
+				<h3><p class="tencongty"><a href="chitietcongviec.php">Quản đốc xưởng</a></p></h3>
 				<h4><p>Công ty TNHH Xuân Trường</p></h4>
 				<p><i class="glyphicon glyphicon-ok"></i> Hồ sơ đang được xét</p>
 				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <a href="sosanhungvien.php"><span class="label label-primary">So sánh</span></a></p>
@@ -51,10 +51,10 @@
 		</div>
 		<div class="col-md-6 viecungtuyen">
 			<div class="col-md-7">
-				<h3><p class="tencongty">Quản đốc xưởng</p></h3>
+				<h3><p class="tencongty"><a href="chitietcongviec.php">Giám đốc nhà máy</a></p></h3>
 				<h4><p>Công ty TNHH Xuân Trường</p></h4>
-				<p><i class="glyphicon glyphicon-ok"></i> Hồ sơ đang được xét</p>
-				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <span class="label label-primary">So sánh</span></p>
+				<p><i class="glyphicon glyphicon-ok"></i> Đã rút hồ sơ ngày 06/01/2018 </p>
+				<p><i class="glyphicon glyphicon-flag"></i> 3 người ứng tuyển <a href="sosanhungvien.php"><span class="label label-primary">So sánh</span></a></p>
 				<p></p>
 				<p><i>Ứng tuyển vào: 05/01/2018</i></p> 
 			</div>
@@ -65,8 +65,32 @@
 		
 	</div>
 	<div id="menu1" class="tab-pane fade">
-		<h3>Tất cả việc đã ứng tuyển</h3>
-		<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+		<div class="col-md-6 viecungtuyen">
+			<div class="col-md-7">
+				<h3><p class="tencongty"><a href="chitietcongviec.php">Quản đốc xưởng</a></p></h3>
+				<h4><p>Công ty TNHH Xuân Trường</p></h4>
+				<p><i class="glyphicon glyphicon-ok"></i> Hồ sơ đang được xét</p>
+				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <a href="sosanhungvien.php"><span class="label label-primary">So sánh</span></a></p>
+				<p></p>
+				<p><i>Ứng tuyển vào: 05/01/2018</i></p> 
+			</div>
+			<div class="col-md-5">
+				<img src="assets/img/120x100.png">
+			</div>
+		</div>
+		<div class="col-md-6 viecungtuyen">
+			<div class="col-md-7">
+				<h3><p class="tencongty"><a href="chitietcongviec.php">Giám đốc nhà máy</a></p></h3>
+				<h4><p>Công ty TNHH Xuân Trường</p></h4>
+				<p><i class="glyphicon glyphicon-ok"></i> Đã rút hồ sơ ngày 06/01/2018 </p>
+				<p><i class="glyphicon glyphicon-flag"></i> 3 người ứng tuyển <a href="sosanhungvien.php"><span class="label label-primary">So sánh</span></a></p>
+				<p></p>
+				<p><i>Ứng tuyển vào: 05/01/2018</i></p> 
+			</div>
+			<div class="col-md-5">
+				<img src="assets/img/120x100.png">
+			</div>
+		</div>
 	</div>
 	
 </div>
