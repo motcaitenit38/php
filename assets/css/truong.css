@@ -1,0 +1,96 @@
+*{
+    
+}
+
+.btn-group.lienket {
+    float:  right;
+    padding-top: 20px;
+}
+
+.inputsearch {
+    width:  10%;
+    float:  left;
+    padding-top:  25px;
+    padding-left:  15px;
+}
+
+.row.header {
+    padding:  10px 0 10px;
+}
+
+
+body{
+    background: #eee;
+}
+header{
+    background: #fff;
+    border-bottom: 1px solid #ccc;
+    height: 120px;
+}
+.container{
+    background: #fff;
+}
+.form-group.inputtimkiem {
+    width: 45%;
+    float: left;
+    padding-left: 25px;
+}
+button.btn.btn-success {
+    width: 100px;
+}
+/*css dangkytuyendung*/
+.imgcircle{
+    text-align: center;
+}
+.titlegt {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+}
+.containertuyendung{
+    margin-top: 50px;
+}
+.col-md-12.banner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.noidunggt {
+    text-align: justify;
+    font-size:  16px;
+    line-height: 1.5;
+    margin-top:  10px;
+}
+
+.col-md-7.cotnoidung {
+    padding-left:  40px;
+}
+.hinhanhlungutng{
+    padding-top: 50px;
+}
+.row.login {
+    padding-top: 20px;
+    text-align: center;
+}
+.container.abc {
+    background: #eee;
+    margin: 20px;
+    text-align: center;
+}
+/*css ho so doanh nghiep*/
+.hoso{
+    position: relative;
+    background-image: url(../img/vietnamLandingImage.jpg);
+    height: 500px;
+}
+.timkiem{
+    display: inline-block;
+    max-width: 500px;
+    width: 100%;
+    padding: 15px 35px 30px !important;
+    margin-bottom: 40px;
+    background: rgba(255,255,255,0.9);
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    text-align: center;
+}

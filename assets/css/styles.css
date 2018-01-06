@@ -1,0 +1,39 @@
+div.search-item-header{
+  font-size:1.2em;
+}
+
+div.search-item{
+  margin-top:30px;
+}
+ul.top-menu > li{
+  float:left;
+}
+
+a.top-menu-link{
+  float:left;
+  padding:15px;
+}
+
+ul.top-menu{
+  float:right;
+}
+
+a.inverse.top-menu-link{
+  background:#222;
+  color:white;
+}
+
+img.home-banner{
+  margin:20px auto;
+}
+
+div.page-top{
+  min-height:10vh;
+}
+
+div.home-main{
+  min-height:80vh;
+}
+
+
+
