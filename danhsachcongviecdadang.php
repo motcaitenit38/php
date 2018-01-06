@@ -64,7 +64,7 @@
     <tbody>
       <tr>
         <td>1</td>
-        <td> <a href="chitiet1congviecdadang.html">Nhà thép tiền chế</a></td>
+        <td> <a href="chitiet1congvieadadang.php">Nhà thép tiền chế</a></td>
         <td>5</td>
         <td>22/03/2018</td>
         <td>Đang nhận hồ sơ</td>
