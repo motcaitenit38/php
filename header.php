@@ -112,6 +112,7 @@
                             <li><a href="ketqua.php"><i class="fa fa-angle-double-right"></i> Trang kết quả tìm kiếm</a></li>
                             <li><a href="chitietcongviec.php"><i class="fa fa-angle-double-right"></i> Trang chi tiết 1 công việc</a></li>
                             <li><a href="thamgiacongviec.php"><i class="fa fa-angle-double-right"></i> Giao diện ứng tuyển công việc</a></li>
+                            <li><a href="hosoungtuyen.php"><i class="fa fa-angle-double-right"></i> Giao diện hồ sơ đã ứng tuyển</a></li>
                         </ul>
                     </li>
                     <li>

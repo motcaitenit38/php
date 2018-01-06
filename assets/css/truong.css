@@ -94,3 +94,11 @@ button.btn.btn-success {
     top: 20%;
     text-align: center;
 }
+
+/*việc ứng tuyển*/
+.viecungtuyen{
+    border: 1px solid #eeee;
+}
+.tencongty{
+    color: blue;
+}

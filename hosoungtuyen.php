@@ -36,14 +36,31 @@
 
 <div class="tab-content">
 	<div id="home" class="tab-pane fade in active">
-		<div class="col-md-6">
+		<div class="col-md-6 viecungtuyen">
 			<div class="col-md-7">
-				<h3><p>Quản đốc xưởng</p></h3>
+				<h3><p class="tencongty">Quản đốc xưởng</p></h3>
 				<h4><p>Công ty TNHH Xuân Trường</p></h4>
 				<p><i class="glyphicon glyphicon-ok"></i> Hồ sơ đang được xét</p>
-				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <span class="label label-primary">So sánh</span></p> 
+				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <a href="sosanhungvien.php"><span class="label label-primary">So sánh</span></a></p>
+				<p></p>
+				<p><i>Ứng tuyển vào: 05/01/2018</i></p> 
 			</div>
-			<div class="col-md-5"></div>
+			<div class="col-md-5">
+				<img src="assets/img/120x100.png">
+			</div>
+		</div>
+		<div class="col-md-6 viecungtuyen">
+			<div class="col-md-7">
+				<h3><p class="tencongty">Quản đốc xưởng</p></h3>
+				<h4><p>Công ty TNHH Xuân Trường</p></h4>
+				<p><i class="glyphicon glyphicon-ok"></i> Hồ sơ đang được xét</p>
+				<p><i class="glyphicon glyphicon-flag"></i> 1 người ứng tuyển <span class="label label-primary">So sánh</span></p>
+				<p></p>
+				<p><i>Ứng tuyển vào: 05/01/2018</i></p> 
+			</div>
+			<div class="col-md-5">
+				<img src="assets/img/120x100.png">
+			</div>
 		</div>
 		
 	</div>
