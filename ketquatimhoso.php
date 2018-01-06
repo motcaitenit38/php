@@ -1,33 +1,5 @@
-<?php include('header.php') ?>
-
-<header>
-        <div class="container-fluid">
-            <div class="row header1">
-                <div class="col-md-2 logo">
-                    <img class="img-responsive" src="assets/img/banner-cpit.png" width="300">
-                </div>
-                <div class="col-md-6 search">
-                    <div class="tenviec">
-                        <div class="form-group inputtimkiem col-md-5">
-                            <label for="usr">Tên việc làm:</label>
-                            <input type="text" class="form-control" id="usr">
-                        </div>
-                        <div class="form-group inputtimkiem col-md-5">
-                            <label for="usr">Địa điểm:</label>
-                            <input type="text" class="form-control" id="usr">
-                        </div>
-                        <div class="inputsearch">
-                            <button class="btn btn-success" type="submit"><i class="glyphicon glyphicon-search"></i></button>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col-md-4">
-                    <div class="btn-group lienket" role="group"><a class="btn btn-link" role="button" href="hosodoanhnghiep.html">Hồ sơ doanh nghiệp</a><a class="btn btn-info" role="button" href="dangkytuyendung.html">Nhà tuyển dụng</a></div>
-                </div>
-            </div>
-        </div>
-    </header>
+<?php include('header.php');
+include('headtimkiem.php'); ?>
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-2">
