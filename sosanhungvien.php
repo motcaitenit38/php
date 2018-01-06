@@ -7,7 +7,7 @@
 <div class="col-md-12">
 	<div class="col-md-6">
 		<p><div class="well">
-			Đây là thông tin về hồ sơ JobStreet.com của bạn. Thông tin chưa chính xác? Cập nhật tại đây.
+			Đây là thông tin về hồ sơ của bạn. Thông tin chưa chính xác? Cập nhật <a href="hosochitiet.php">tại đây</a>.
 		</div></p>
 		<table class="table">
 			<thead>
@@ -78,5 +78,45 @@
 		</table>
 	</div>
 	<div class="col-md-6"></div>
+</div>
+<div class="col-md-12">
+	<div class="well">
+		3 ứng viên khác cho vị trí này
+	</div>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>Chức danh</th>
+				<th>Mức lương mong muốn</th>
+				<th>Kinh nghiệm</th>
+				<th>Trình độ học vấn</th>
+				<th>Chuyên nghành</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Giám đốc</td>
+				<td>16</td>
+				<td>10 năm</td>
+				<td>Đại học</td>
+				<td>Sản Xuất</td>
+			</tr>      
+			<tr class="success">
+				<td>Kế toán</td>
+				<td>14</td>
+				<td>11</td>
+				<td>Thạc sỹ</td>
+				<td>Văn phòng</td>
+			</tr>
+			<tr class="danger">
+				<td>Kế toán</td>
+				<td>14</td>
+				<td>11</td>
+				<td>Thạc sỹ</td>
+				<td>Văn phòng</td>
+			</tr>
+			
+		</tbody>
+	</table>
 </div>
 <?php include('footer.php') ?>
