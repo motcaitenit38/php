@@ -28,7 +28,7 @@
     </div>
   </div>
 </header>
-<div class="container text-center">    
+<div class="text-center">    
     <div class="row">
     <div class="col-sm-4">
          <div class="welll">
@@ -48,7 +48,7 @@
     </div>
   </div>
  </div>
-  <div class="container">
+  <!-- <div class="container"> -->
   <h2>Chi tiết 1 công việc đã đăng</h2>
                  
   <table class="table table-striped">
