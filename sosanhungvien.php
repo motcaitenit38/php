@@ -12,28 +12,28 @@
 		<table class="table">
 			<thead>
 				<tr>
-					<td>Chức danh</td>
-					<td>Giám đốc</td>
+					<td>Lĩnh vực hoạt động</td>
+					<td>Xây dựng</td>
 
 				</tr>
 				<tr>
-					<td>Mức lương mong muốn</td>
-					<td>18 triệu đồng</td>
+					<td>Năm kinh nghiệm</td>
+					<td>18 năm</td>
 
 				</tr>
 				<tr>
-					<td>Kinh nghiệm</td>
-					<td>20 năm</td>
+					<td>Vốn điều lệ</td>
+					<td>200 tỷ</td>
 
 				</tr>
 				<tr>
-					<td>Trình độ học vấn</td>
-					<td>PGs.TS</td>
+					<td>Năng lực nhân sự</td>
+					<td>TS, Thạc sỹ</td>
 
 				</tr>
 				<tr>
-					<td>Chuyên ngành</td>
-					<td>Cơ điện</td>
+					<td>Năng lực thiết bị</td>
+					<td>Đầy đủ</td>
 
 				</tr>
 			</thead>
@@ -49,9 +49,9 @@
 			<thead>
 				<tr>
 					<th>So sánh</th>
-					<th>Học vấn</th>
-					<th>Mức lương</th>
-					<th>Kinh nghiệm</th>
+					<th>Lĩnh vực hoạt động</th>
+					<th>năm kinh nghiệm</th>
+					<th>Vốn điều lệ</th>
 				</tr>
 			</thead>
 			<tbody>
@@ -86,34 +86,34 @@
 	<table class="table">
 		<thead>
 			<tr>
-				<th>Chức danh</th>
-				<th>Mức lương mong muốn</th>
-				<th>Kinh nghiệm</th>
-				<th>Trình độ học vấn</th>
-				<th>Chuyên nghành</th>
+				<th>Lĩnh vực</th>
+				<th>Năm kinh nghiệm</th>
+				<th>Vốn điều lệ</th>
+				<th>Năng lực thiết bị</th>
+				<th>Năng lực nhân sự</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
-				<td>Giám đốc</td>
-				<td>16</td>
-				<td>10 năm</td>
-				<td>Đại học</td>
-				<td>Sản Xuất</td>
+				<td>Xây dựng</td>
+				<td>Cao hơn</td>
+				<td>Cao hơn</td>
+				<td>Thấp hơn</td>
+				<td>Cao hơn</td>
 			</tr>      
 			<tr class="success">
-				<td>Kế toán</td>
-				<td>14</td>
-				<td>11</td>
-				<td>Thạc sỹ</td>
-				<td>Văn phòng</td>
+				<td>Xây dựng</td>
+				<td>Cao hơn</td>
+				<td>Cao hơn</td>
+				<td>Thấp hơn</td>
+				<td>Cao hơn</td>
 			</tr>
 			<tr class="danger">
-				<td>Kế toán</td>
-				<td>14</td>
-				<td>11</td>
-				<td>Thạc sỹ</td>
-				<td>Văn phòng</td>
+				<td>Xây dựng</td>
+				<td>Cao hơn</td>
+				<td>Cao hơn</td>
+				<td>Thấp hơn</td>
+				<td>Cao hơn</td>
 			</tr>
 			
 		</tbody>
