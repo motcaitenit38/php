@@ -1,76 +1,7 @@
-<<<<<<< HEAD
-<?php include('header.php') ?>
 
- <header>
-        <div class="container-fluid">
-            <div class="row header1">
-                <div class="col-md-2 logo">
-                    <img class="img-responsive" src="assets/img/banner-cpit.png" width="300">
-                </div>
-                <div class="col-md-7 search">
-                    <div class="tenviec">
-                        <div class="form-group inputtimkiem">
-                            <label for="usr">Tên việc làm:</label>
-                            <input type="text" class="form-control" id="usr">
-                        </div>
-                        <div class="form-group inputtimkiem">
-                            <label for="usr">Địa điểm:</label>
-                            <input type="text" class="form-control" id="usr">
-                        </div>
-                        <div class="inputsearch">
-                            <button class="btn btn-success" type="submit">
-                                <i class="glyphicon glyphicon-search"></i>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="btn-group lienket" role="group">
-                        <a class="btn btn-link" role="button" href="#">Hồ sơ doanh nghiệp</a>
-                        <a class="btn btn-info" role="button" href="#">Nhà tuyển dụng</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <div>
-        <div class="well">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-md-2">
-                        <img class="img-responsive" src="assets/img/banner-cpit.png" width="100%">
-                        
-                    </div>
-                    <div class="col-md-6">
-                        <a href="#" data-toggle="modal" data-target="#modalSuaTen"><h4>Công Ty Cổ Phần CPIT </h4></a>
-                        <!-- <h5>
-                            <a href="#">Ban Quản lý Khu kinh tế Hà Nội </a>
-                        </h5> -->
-                        <h5>
-                            <label>
-                                <i class="glyphicon glyphicon-map-marker"></i> Địa điểm: 
-                            </label>
-                            <a href="#" data-toggle="modal" data-target="#modalSuaDiaDiem">Hà Nội</a>
-                        </h5>
-                    </div>
-                    <div class="col-md-4">
-                        <h5>
-                            <label>
-                                <i class="glyphicon glyphicon-usd"></i> Vốn Điều Lệ 
-                            </label>
-                            <a href="#" data-toggle="modal" data-target="#modalSuaVonDieuLe">17.775.000.000 đồng</a>
-                        </h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="panel panel-default">
-            <div class="panel-body">
-                <div class="container">
-=======
 <?php include('header.php');
 include('headtimkiem.php'); ?>
+
 
  
     <div>
@@ -107,7 +38,7 @@ include('headtimkiem.php'); ?>
         <div class="panel panel-default">
             <div class="panel-body">
                 <!-- <div class="container"> -->
->>>>>>> de76c9f0c696dcdd194f62b4e9d4afd46bb12062
+
                     <div class="row">
                         <div class="col-md-6">
                             <h3>Thông Tin Công Việc</h3>
@@ -307,11 +238,11 @@ include('headtimkiem.php'); ?>
                         <div class="col-md-6">
                             <h3>Mô tả chi tiết công việc</h3>
                             <div>
-<<<<<<< HEAD
-                                <textarea rows="5" cols="20" style="margin: 0px; width: 597px; height: 182px;">
-=======
+
+                               
+
                                 <textarea rows="5" cols="20" style="margin: 0px; width: 100%; height: 300px;">
->>>>>>> de76c9f0c696dcdd194f62b4e9d4afd46bb12062
+
 								Yêu cầu:
 - Đơn vị có 5 năm trong lĩnh vực sản xuất bê tông nhựa và thi công thảm mặt đường.
 - Có 2 kỹ sư đường có kinh nghiệm tối thiểu 3 năm.
@@ -354,11 +285,11 @@ include('headtimkiem.php'); ?>
                             </div>
                         </div>
                     </div>
-<<<<<<< HEAD
+
                 </div>
-=======
+
                 <!-- </div> -->
->>>>>>> de76c9f0c696dcdd194f62b4e9d4afd46bb12062
+
             </div>
         </div>
     </div>
