@@ -108,7 +108,8 @@
                     <li>
                         <a href="#" data-toggle="collapse" data-target="#submenu-1"><i class="fa fa-fw fa-search"></i> Người tìm việc <i class="fa fa-fw fa-angle-down pull-right"></i></a>
                         <ul id="submenu-1" class="collapse">
-                            <li><a href="index.php"><i class="fa fa-angle-double-right"></i> Giao diện tìm kiếm</a></li>
+                            
+                            <li><a href="home.php"><i class="fa fa-angle-double-right"></i> Giao diện trang chủ</a></li>
                             <li><a href="ketqua.php"><i class="fa fa-angle-double-right"></i> Trang kết quả tìm kiếm</a></li>
                             <li><a href="chitietcongviec.php"><i class="fa fa-angle-double-right"></i> Trang chi tiết 1 công việc</a></li>
                             <li><a href="thamgiacongviec.php"><i class="fa fa-angle-double-right"></i> Giao diện ứng tuyển công việc</a></li>
