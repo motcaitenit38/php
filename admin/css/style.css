@@ -1922,7 +1922,7 @@ i.pull-left.fa.fa-bolt.icon-rounded {
     top:47%;
     left:35%;
     background:#8BC34A;
-    width: 95px;
+    width: 150px;
     height: 30px;
     padding: .4em 0 0;
 }
@@ -1932,11 +1932,15 @@ i.pull-left.fa.fa-bolt.icon-rounded {
 .grow2 {
     background:#FFCA28;
 }
+
 .grow3 {
     background: #F44336;
 }
-.grow1,.grow3,.grow2 {
-    left: 36%;
+.grow4 {
+    background: #8BC34A;
+}
+.grow1,.grow3,.grow2,.grow4 {
+    left: 25%;
 }
 .switch-right-grid h3{
 	color:#000;
@@ -1977,11 +1981,11 @@ canvas.overlay {
     box-shadow: 0 1px 3px 0px rgba(0, 0, 0, 0.2);
 	background:#fff;
 }
-.switch-right {
+/*.switch-right {
     padding: 0;
     width:32.33%;
     margin-right: 1.5%;
-}
+}*/
 .switch-right:nth-child(3) {
 	margin-right:0%;
 }
@@ -4164,7 +4168,7 @@ div#container-rpm1{
     margin: 0 auto;
 }
 .panel-body {
-    padding:1em 2em;
+    padding:0;
 }
 button.rew:hover {
 	border-color: #ccc !important;
