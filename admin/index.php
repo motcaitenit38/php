@@ -48,54 +48,69 @@
 	<div class="clearfix"> </div>
 </div>
 <div class="switches">
-<div class="col_3">
-	<div class="col-md-12 widget widget1">
-		
-		<!-- <div class="col-md-12 switch-right"> -->
-			<div class="panel panel-warning" data-widget="{&quot;draggable&quot;: &quot;false&quot;}" data-widget-static="">
-				<div class="panel-heading">
-					<h2>Tin tuyển dụng mới</h2>
-					<div class="panel-ctrls" data-actions-container="" data-action-collapse="{&quot;target&quot;: &quot;.panel-body&quot;}"><span class="button-icon has-bg"><i class="ti ti-angle-down"></i></span></div>
+	<div class="col_3">
+		<div class="col-md-12 widget widget1">
+
+			<!-- <div class="col-md-12 switch-right"> -->
+				<div class="panel panel-warning" data-widget="{&quot;draggable&quot;: &quot;false&quot;}" data-widget-static="">
+					<div class="panel-heading">
+						<h2>Tin tuyển dụng mới</h2>
+						<div class="panel-ctrls" data-actions-container="" data-action-collapse="{&quot;target&quot;: &quot;.panel-body&quot;}"><span class="button-icon has-bg"><i class="ti ti-angle-down"></i></span></div>
+					</div>
+					<div class="panel-body no-padding" style="display: block;">
+						<table class="table table-striped">
+							<thead>
+								<tr class="warning">
+									<th>Tên việc</th>
+									<th>Người đăng</th>
+									<th>Ngày đăng</th>
+									<th>Tác vụ</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Giám đốc xưởng</td>
+									<td>Công ty TNHH A</td>
+									<td>08/01/2018</td>
+									<td>
+										<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+									</td>
+								</tr>
+								<tr>
+									<td>Trộn hồ</td>
+									<td>Công ty xây dựng A</td>
+									<td>06/01/2018</td>
+									<td>
+										<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+									</td>
+								</tr>
+								<tr>
+									<td>Đóng tàu</td>
+									<td>Xí nghiệp đóng tàu C</td>
+									<td>05/01/2018</td>
+									<td>
+										<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
 				</div>
-				<div class="panel-body no-padding" style="display: block;">
-					<table class="table table-striped">
-						<thead>
-							<tr class="warning">
-								<th>Tên việc</th>
-								<th>Người đăng</th>
-								<th>Ngày đăng</th>
-								<th>Tác vụ</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>Giám đốc xưởng</td>
-								<td>Công ty TNHH A</td>
-								<td>08/01/2018</td>
-								<td>@mdo</td>
-							</tr>
-							<tr>
-								<td>Trộn hồ</td>
-								<td>Công ty xây dựng A</td>
-								<td>06/01/2018</td>
-								<td>@fat</td>
-							</tr>
-							<tr>
-								<td>Đóng tàu</td>
-								<td>Xí nghiệp đóng tàu C</td>
-								<td>05/01/2018</td>
-								<td>@twitter</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
+
 			</div>
-			
 		</div>
+
+		<div class="clearfix"> </div>
 	</div>
-	
-	<div class="clearfix"> </div>
-</div>
 </div>
 <!-- switches -->
 <div class="switches">
@@ -121,19 +136,34 @@
 								<td>Công ty TNHH A</td>
 								<td>Lê Xuân A</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 							<tr>
 								<td>Công ty TNHH A</td>
 								<td>Lê Xuân A</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 							<tr>
 								<td>Công ty TNHH A</td>
 								<td>Lê Xuân A</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 						</tbody>
 					</table>
@@ -162,19 +192,34 @@
 								<td>Lê Xuân A</td>
 								<td>Xây dựng</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 							<tr>
 								<td>Lê Xuân A</td>
 								<td>Xây dựng</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 							<tr>
 								<td>Lê Xuân A</td>
 								<td>Xây dựng</td>
 								<td>0966178085</td>
-								<td>@mdo</td>
+								<td>
+									<h4>							
+										<span class="label label-primary">Xem chi tiết</span>
+										<span class="label label-success">Xác nhận</span>							
+									</h4>
+								</td>
 							</tr>
 						</tbody>
 					</table>
@@ -182,4 +227,4 @@
 			</div>
 			
 		</div>
-		
+		<?php include('footer.php') ?>
