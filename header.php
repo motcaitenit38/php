@@ -134,6 +134,10 @@
                             <li><a href="nhatuyedungxemsosanhungvien.php"><i class="fa fa-angle-double-right"></i> Xem so sánh các ứng viên</a></li>
                         </ul>
                     </li>
+                    <li>
+                        <a href="admin/index.php" ><i class="fa fa-fw fa-star"></i> Giao diện admin <i class="fa fa-fw fa-angle-down pull-right"></i></a>
+                        
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
