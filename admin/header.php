@@ -60,59 +60,59 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<ul class="nav nav-pills nav-stacked custom-nav">
 
 					<li class="menu-list">
-						<a href="tintuyedung.php"><i class="lnr lnr-cog"></i>
+						<a href="#"><i class="lnr lnr-cog"></i>
 							<span>Tin tuyển dụng</span></a>
 							<ul class="sub-menu-list">
-								<li><a href="tindaduyet.php">Tin đã duyệt</a> </li>
-								<li><a href="tinchuaduyet.php">Tin chưa duyệt</a></li>
-								<li><a href="tindahethan.php">Tin đã hết hạn</a></li>
-								<li><a href="tinchuadanhgia.php">Tin chưa đánh giá</a></li>
+								<li><a href="#">Tin đã duyệt</a> </li>
+								<li><a href="#">Tin chưa duyệt</a></li>
+								<li><a href="#">Tin đã hết hạn</a></li>
+								<li><a href="#">Tin chưa đánh giá</a></li>
 							</ul>
 						</li>
 						<li class="menu-list">
-							<a href="nhatuyedung.php"><i class="lnr lnr-spell-check"></i>
+							<a href="#"><i class="lnr lnr-spell-check"></i>
 								<span>Nhà tuyển dụng</span></a>
 								<ul class="sub-menu-list">
-									<li><a href="hosodaduyet.php">Hồ sơ đã duyệt</a> </li>
-									<li><a href="hosochuaduyet.php">Hồ sơ chưa duyệt</a></li>
-									<li><a href="hosodahethan.php">Hồ sơ chưa hoàn thành</a></li>
+									<li><a href="#">Hồ sơ đã duyệt</a> </li>
+									<li><a href="#">Hồ sơ chưa duyệt</a></li>
+									<li><a href="#">Hồ sơ chưa hoàn thành</a></li>
 									
 								</ul>
 							</li>
 							<li class="menu-list">
-								<a href="hossotimviec.php"><i class="lnr lnr-menu"></i>
+								<a href="#"><i class="lnr lnr-menu"></i>
 									<span>Hồ sơ tìm việc</span></a>
 									<ul class="sub-menu-list">
-										<li><a href="hosotimviecdaduyet.php">Hồ sơ đã duyệt</a> </li>
-										<li><a href="hosotimviecchuaduyet.php">Hồ sơ chưa duyệt</a></li>
-										<li><a href="hosotimviecdahethan.php">Hồ sơ chưa hoàn thành</a></li>									
+										<li><a href="#">Hồ sơ đã duyệt</a> </li>
+										<li><a href="#">Hồ sơ chưa duyệt</a></li>
+										<li><a href="#">Hồ sơ chưa hoàn thành</a></li>									
 									</ul>
 								</li>
 								<li class="menu-list">
-									<a href="thongkenganhnghe.php"><i class="lnr lnr-envelope"></i>
+									<a href="#"><i class="lnr lnr-envelope"></i>
 										<span>Thống kê ngành nghê</span></a>
 										<ul class="sub-menu-list">
-											<li><a href="nganhhot.php">Nghành nghề HOT</a> </li>
-											<li><a href="nganhquantam.php">Ngành nghề được quan tâm</a></li>
-											<li><a href="nganhtimkiemnhieu.php">Ngành nghề được tìm kiếm nhiều</a></li>									
+											<li><a href="#">Nghành nghề HOT</a> </li>
+											<li><a href="#">Ngành nghề được quan tâm</a></li>
+											<li><a href="#">Ngành nghề được tìm kiếm nhiều</a></li>									
 										</ul>
 									</li>
 									<li class="menu-list">
-										<a href="giaodich.php"><i class="lnr lnr-indent-increase"></i>
+										<a href="#"><i class="lnr lnr-indent-increase"></i>
 											<span>Thống kê giao dịch</span></a>
 											<ul class="sub-menu-list">
-												<li><a href="giaodichthanhcong.php">Giao dịch thành công</a> </li>
-												<li><a href="giaodichthatbai.php">Giao dịch thất bại</a></li>
-												<li><a href="chuacogiaodich.php">Chưa có giao dịch</a></li>						
+												<li><a href="#">Giao dịch thành công</a> </li>
+												<li><a href="#">Giao dịch thất bại</a></li>
+												<li><a href="#">Chưa có giao dịch</a></li>						
 											</ul>
 										</li>
 										<li class="menu-list">
-										<a href="baocao.php"><i class="lnr lnr-book"></i>
+										<a href="#"><i class="lnr lnr-book"></i>
 											<span>Báo cáo</span></a>
 											<ul class="sub-menu-list">
-												<li><a href="theongay.php">Báo cáo theo ngày</a> </li>
-												<li><a href="theothang.php">Báo cáo theo tháng</a></li>
-												<li><a href="theonam.php">Báo cáo theo năm</a></li>						
+												<li><a href="#">Báo cáo theo ngày</a> </li>
+												<li><a href="#">Báo cáo theo tháng</a></li>
+												<li><a href="#">Báo cáo theo năm</a></li>						
 											</ul>
 										</li>
 									</ul>
